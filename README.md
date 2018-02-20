@@ -1,4 +1,4 @@
-# lamp-helloworldlamp
+# lamp-helloworld
 my first lamp application
 
 ## brew tap - required
